@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="ShopyTroll">
+    <meta name="apple-mobile-web-app-title" content="ShopyTroll">
+    <meta name="theme-color" content="#121212">
+    <meta name="msapplication-navbutton-color" content="#121212">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="msapplication-starturl" content="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="icon" type="image/png" sizes="128x128" href="images/27_big.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="128x128" href="images/27_big.png">
+</head>
+<body>
+    <div class="content">
+        <div class="sber"><img src="images/logo-horizontal.svg"></div>
+        <div class="container">
+            <h1 class="logo_name">Shopy<span>Troll</span></h1>
+            <div class="container_box">
+                <input type="text" placeholder="Имя и Фамилия Продовца" id="name_firstname">
+                <input type="number" placeholder="Цена" id="price">
+                <!-- <input type="text"> -->
+            </div>
+
+            <div class="error_box" id="error_box">
+                <p class="error">Отсутствует один из входных данных!</p>
+            </div>
+
+            <button class="btn_do" id="btn_do">Далее</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+         window.addEventListener('load', function() {  
+           navigator.serviceWorker.register('/sw.js').then(
+             function(registration) {
+               // Registration was successful
+               console.log('ServiceWorker registration successful with scope: ', registration.scope); },
+             function(err) {
+               // registration failed :(
+               console.log('ServiceWorker registration failed: ', err);
+             });
+         });
+        }
+        </script>
+</body>
+</html>
