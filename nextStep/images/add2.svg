@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="add2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.1117597"
+     inkscape:cx="157.40812"
+     inkscape:cy="290.98015"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3" /><defs
+     id="defs1" /><g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"><g
+       id="g3"
+       transform="matrix(21.333333,0,0,21.333333,4e-6,4e-6)"><path
+         d="m 18,2 c 2.206,0 4,1.794 4,4 v 12 c 0,2.206 -1.794,4 -4,4 H 6 C 3.794,22 2,20.206 2,18 V 6 C 2,3.794 3.794,2 6,2 Z M 18,0 H 6 A 6,6 0 0 0 0,6 v 12 a 6,6 0 0 0 6,6 h 12 a 6,6 0 0 0 6,-6 V 6 A 6,6 0 0 0 18,0 Z"
+         fill="#000000"
+         opacity="1"
+         data-original="#000000"
+         id="path1" /><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3196px;line-height:0;font-family:'Yandex Sans Text';-inkscape-font-specification:'Yandex Sans Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#2c8d2d;stroke-width:0;stroke-miterlimit:500.6;stroke-dashoffset:13.2284;paint-order:markers fill stroke"
+         x="10.542095"
+         y="15.122999"
+         id="text1"
+         transform="scale(0.84788955,1.1793989)"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.31959984px;font-family:'Yandex Sans Text';-inkscape-font-specification:'Yandex Sans Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+           x="10.542095"
+           y="15.122999">1</tspan></text></g></g></svg>
