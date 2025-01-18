@@ -1,5 +1,6 @@
 {
     "name": "ShopyTroll",
+    "short_name": "ShopyTroll",
     "description": "This app for trolls shopes.",
     "start_url": "/",
     "lang": "ru-RU",
