@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Sber';
+    src: url(fonts/sber15.ttf) format('ttf');
+  }
+
+@font-face {
+    font-family: 'Sber2';
+    src: url(fonts/sber2.ttf) format('ttf');
+}
+
+
+@font-face {
+    font-family: 'Sber3';
+    src: url(fonts/helvetica_regular.otf) format('otf');
+}
+
+@font-face {
+    font-family: 'Sber4';
+    src: url(fonts/helvetica_bold.otf) format('otf');
+}
+
+@font-face {
+    font-family: 'Sber5';
+    src: url(fonts/helvetica_boldoblique.otf) format('otf');
+}
+
+@font-face {
+    font-family: 'Sber6';
+    src: url(fonts/helvetica_light.otf) format('otf');
+}
+
+@font-face {
+    font-family: 'Sber7';
+    src: url(fonts/helvetica_lightoblique.otf) format('otf');
+}
+
+@font-face {
+    font-family: 'Sber8';
+    src: url(fonts/helvetica_oblique.otf) format('otf');
+}
+
+
+@font-face {
+    font-family: 'Sber9';
+    src: url(fonts/helvetica_cyr_oblique.ttf) format('ttf');
+}
+
+@font-face {
+    font-family: 'YandexSans';
+    src: url(fonts/YandexSansDisplay-Regular.ttf) format('ttf');
+}
