@@ -1,5 +1,6 @@
 {
     "name": "ShopyTroll",
+    "short_name": "ShopyTroll",
     "description": "This app for trolls shopes.",
     "start_url": "/nextStep/index.html",
     "lang": "ru-RU",
@@ -9,6 +10,11 @@
       {
         "src": "../images/27_big.png",
         "sizes": "128x128",
+        "type": "image/png"
+      },
+         {
+        "src": "../images/27_big.png",
+        "sizes": "512x512",
         "type": "image/png"
       }
     ],
