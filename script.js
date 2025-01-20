@@ -22,7 +22,7 @@ btn_do.addEventListener('click', () =>{
         price_update = price.value + " ₽";
         objectShop = {
             "name": name_firstname.value,
-            "price": price_update,
+            "pricerub": price_update,
         }
         objectShopJSON = JSON.stringify(objectShop)
         console.log(objectShop);
