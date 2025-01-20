@@ -50,12 +50,19 @@
     src: url(fonts/YandexSansDisplay-Regular.ttf) format('ttf');
 }
 
+
 @font-face {
     font-family: 'Sberchick';
     src: url(fonts/PT_Sans-Caption-Web-Regular.ttf) format('ttf');
 }
 
+
 @font-face {
-    font-family: 'SberchikBold';
+    font-family: 'SberchickBold';
     src: url(fonts/PT_Sans-Caption-Web-Bold.ttf) format('ttf');
+}
+
+@font-face {
+    font-family: 'SBSans-text';
+    src: url(fonts/sb-sans-text-medium.ttf) format('ttf');
 }
