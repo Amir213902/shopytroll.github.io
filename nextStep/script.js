@@ -4,6 +4,6 @@ const money = document.getElementById('money');
 const recipient = document.getElementById('recipient');
 
 if(obj != '') {
-    money.innerHTML = obj.price;
+    money.innerHTML = obj.pricerub;
     recipient.innerHTML = obj.name;
 }
