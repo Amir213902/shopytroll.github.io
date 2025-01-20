@@ -49,3 +49,8 @@
     font-family: 'YandexSans';
     src: url(fonts/YandexSansDisplay-Regular.ttf) format('ttf');
 }
+
+@font-face {
+    font-family: 'Sberchick';
+    src: url(fonts/.otf) format('otf');
+}
