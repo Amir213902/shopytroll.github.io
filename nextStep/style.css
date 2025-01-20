@@ -86,7 +86,7 @@ p.transfer_complete {
 h2.money {
     color: inherit;
     font-size: 24px;
-    /* font-weight: 500; */
+    font-weight: 500; 
     margin: 10px 0;
     font-family: 'Sberchik', sans-serif;
 }
@@ -95,7 +95,7 @@ h5.recipient {
     color: #ffffff;
     font-size: 14px;
     font-weight: 200;
-    font-family: 'Sberchik', sans-serif;
+    font-family: 'Sberchick', sans-serif;
 }
 
 
