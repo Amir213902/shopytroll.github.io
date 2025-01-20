@@ -19,7 +19,7 @@ btn_do.addEventListener('click', () =>{
         if(error_box.style.display == 'flex') {
             switchDisplayErrorBox();
         }
-        price_update = price.value + " ₽";
+        price_update = toString(price.value) + " ₽";
         objectShop = {
             "name": name_firstname.value,
             "price": price_update
