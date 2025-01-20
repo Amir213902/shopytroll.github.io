@@ -4,7 +4,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Sberchick', sans-serif;
+    font-family: 'SBSans-text', 'Open Sans', 'Helvetica Ne', sans-serif;
+
 }
 
 
@@ -79,24 +80,21 @@ header {
 
 p.transfer_complete {
     color: inherit;
-    font-size: 18px;
-    font-weight: 200;
-    font-family: 'Sberchick', sans-serif;
+    font-weight: 500;
+    font-size: 19px;
 }
 
 h2.money {
     color: inherit;
     font-size: 24px;
-    font-weight: 500; 
+    font-weight: 500;
     margin: 10px 0;
-    font-family: 'Sberchick', sans-serif;
 }
 
 h5.recipient {
     color: #ffffff;
-    font-size: 14px;
-    font-weight: 200;
-    font-family: 'Sberchick', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
 }
 
 
@@ -170,8 +168,7 @@ h5.recipient {
     width: 100%;
     text-align: start;
     color: #fff;
-    font-size: 14px;
-    font-family: 'Sberchick', sans-serif;
+    font-size: 12px;
 
 }
 
@@ -208,8 +205,7 @@ h5.recipient {
     width: 100%;
     text-align: start;
     color: #fff;
-    font-size: 14px;
-    font-family: 'Sberchik', sans-serif;
+    font-size: 12px;
 }
 
 .last-content .last-icon {
@@ -236,7 +232,6 @@ h5.recipient {
     justify-content: center;
     background-color: #2c8d2d;
     color: #fff;
-    font-family: 'Sberchik', sans-serif;
     font-size: 0.9rem;
     border-radius: 10px;
 }
