@@ -79,7 +79,8 @@ header {
 
 p.transfer_complete {
     color: inherit;
-    font-size: 17px;
+    font-size: 18px;
+    font-weight: 200;
     font-family: 'Sberchick', sans-serif;
 }
 
