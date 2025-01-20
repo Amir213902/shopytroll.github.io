@@ -88,14 +88,14 @@ h2.money {
     font-size: 24px;
     /* font-weight: 500; */
     margin: 10px 0;
-    font-family: 'Sber3', sans-serif;
+    font-family: 'Sberchik', sans-serif;
 }
 
 h5.recipient {
     color: #ffffff;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Sber3', sans-serif;
+    font-family: 'Sberchik', sans-serif;
 }
 
 
@@ -208,7 +208,7 @@ h5.recipient {
     text-align: start;
     color: #fff;
     font-size: 14px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Sberchik', sans-serif;
 }
 
 .last-content .last-icon {
@@ -235,7 +235,7 @@ h5.recipient {
     justify-content: center;
     background-color: #2c8d2d;
     color: #fff;
-    font-family: 'Sber3', sans-serif;
+    font-family: 'Sberchik', sans-serif;
     font-size: 0.9rem;
     border-radius: 10px;
 }
