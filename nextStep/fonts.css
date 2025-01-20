@@ -52,5 +52,10 @@
 
 @font-face {
     font-family: 'Sberchick';
-    src: url(fonts/.otf) format('otf');
+    src: url(fonts/PT_Sans-Caption-Web-Regular.ttf) format('ttf');
+}
+
+@font-face {
+    font-family: 'SberchikBold';
+    src: url(fonts/PT_Sans-Caption-Web-Bold.ttf) format('ttf');
 }
