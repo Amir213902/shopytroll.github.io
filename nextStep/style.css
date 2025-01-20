@@ -80,7 +80,7 @@ header {
 p.transfer_complete {
     color: inherit;
     font-size: 17px;
-    font-family: 'Sber3', sans-serif;
+    font-family: 'Sberchick', sans-serif;
 }
 
 h2.money {
@@ -170,7 +170,7 @@ h5.recipient {
     text-align: start;
     color: #fff;
     font-size: 14px;
-    font-family: 'Sber3', sans-serif;
+    font-family: 'Sberchick', sans-serif;
 
 }
 
