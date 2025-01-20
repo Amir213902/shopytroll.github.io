@@ -24,7 +24,7 @@ btn_do.addEventListener('click', () =>{
             "name": name_firstname.value,
             "pricerub": price_update,
         }
-        objectShopJSON = JSON.stringify(objectShop)
+        objectShopJSON = JSON.stringify(objectShop);
         console.log(objectShop);
         localStorage.setItem('obj', objectShopJSON);
         window.location.href = "https://amir213902.github.io/shopytroll.github.io/nextStep/";
